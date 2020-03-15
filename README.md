@@ -4,10 +4,10 @@ Basically I have to set data according to sorting method. what they(user) want.
 
 
 # Requirement
-firstly we have to required express and then we have to install all these packages in your project..
-for mongoose ..
-  >> sudo npm install mongoose
-for axios ..
+firstly we have to required express and then we have to install all these packages in your project..<br>
+for mongoose ..<br>
+  >> sudo npm install mongoose<br>
+for axios ..<br>
   >> sudo npm install axios
   
 
